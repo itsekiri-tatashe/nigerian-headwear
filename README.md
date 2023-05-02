@@ -22,13 +22,13 @@ ___
 ## Model Performamce
 
 #### Confusion Matrix
-![Confusion Matrix](result/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 #### F1_curve
-![F1 Curve](result/F1_curve.png)
+![F1 Curve](F1_curve.png)
 
 #### PR_curve
-![PR Curve](result/PR_curve.png)
+![PR Curve](PR_curve.png)
 ___
 ## How to Detect Images
 
