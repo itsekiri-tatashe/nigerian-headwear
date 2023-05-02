@@ -1,0 +1,7 @@
+train: train
+val: test
+
+nc: 8
+
+names: ["Abeti Aja", "Awolowo cap", "Gele", "Hausa 'Fula'", "Okpu-Agu", 
+        "Okpu-Ozo", "Turban", "Yoruba 'Fila'"]
