@@ -22,13 +22,13 @@ ___
 ## Model Performamce
 
 #### Confusion Matrix
-![Confusion Matrix](runs/train/best/confusion_matrix.png)
+![Confusion Matrix](runs\train\best\confusion_matrix.png)
 
 #### F1_curve
-![F! Curve](runs/train/best/F1_curve.png)
+![F! Curve](runs\train\best\F1_curve.png)
 
 #### PR_curve
-![Web application of the model](runs/train/best/PR_curve.png)
+![Web application of the model](runs\train\best\PR_curve.png)
 ___
 ## How to Detect Images
 
